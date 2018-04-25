@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CrivoApp</string>
+    <!---->
+    //comentar bpara organizar por tela ctrl shift barra
+    <!---->
+    //Screen "Objetivo"
+    <string name = "objetivo_title">Objetivo</string>
+    <string name="obetivo_body">    Este aplicativo tem como objetivo facilitar a leitura/n
+                                    crítica de atigos científicos na área de saúde./n
+                                    Disponibiliza as ferramentas necessárias para/n
+                                    auxiliar estudantes e profissionais de saúde na/n
+                                    </string>
+    <!---->
+<!---->
+    <!---->
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
